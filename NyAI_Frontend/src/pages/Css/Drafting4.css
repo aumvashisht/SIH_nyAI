@@ -1,0 +1,36 @@
+.drafting4 .row {
+    margin-top: 50px;
+  }
+.drafting4 .row h1{
+    color: #eb934f;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.drafting4 .row .col{
+    border: 2px solid rgba(0,0,0,0.5);
+    border-radius: 20px;
+    font-size: 22px;
+}
+
+.drafting4 .row .col h2{
+    color: #477769;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.drafting4 .col div .acts b{
+    text-decoration: underline;
+}
+
+.drafting4 .col button{
+    text-align: center;
+    width: 30%;
+    height: auto;
+    border-radius: 30px;
+    font-size: 22px;
+    font-weight: 800;
+    background-color: #477769;
+    color: white;
+}

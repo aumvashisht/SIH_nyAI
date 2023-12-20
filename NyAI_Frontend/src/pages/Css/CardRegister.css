@@ -1,0 +1,45 @@
+.regiDiv{
+    width: 100vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.regiDiv .container{
+    width: 40%;
+    height: 50%;
+}
+
+.regiDiv .container form{
+    box-shadow: rgba(0,0,0,0.35) 5px 5px 15px 10px;
+    padding: 20px;
+    background-color: #fff;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.regiDiv .container form input{
+    border: none;
+    border-bottom: 1px solid #000;
+    border-radius: 0;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.regiDiv .container  form button{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #000;
+    color: white;
+    width: 100%;
+    height: auto;
+    font-weight: 600;
+}
+
+.regiDiv .container form .text{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+

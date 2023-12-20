@@ -1,0 +1,28 @@
+.footerBox{
+    padding: 50px;
+}
+.footerBox .raw{
+    display: flex;
+}
+.footerBox .raw h4{
+    height: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-self: center;
+}
+.footerBox .raw .logo .a img{
+    width: 250.52px;
+    height: 70px;
+}
+
+.footerBox.raw .col{
+    display:flex;
+    flex-direction: column;
+}
+
+.footerBox .raw .col div{
+    font-weight: 630;
+    line-height: 3rem;
+    font-size: 18px;
+}

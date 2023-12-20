@@ -1,0 +1,41 @@
+.Div01 {
+  max-width: 60vw;
+  max-height: 100vh;
+}
+
+.para {
+  margin: 50px 0px 40px 0px;
+  color: #477769;
+  font-size: 55px;
+  line-height: normal;
+}
+
+/* ---------------------------------------------This is for accordian---------------------------------------- */
+.accordion {
+  --bs-accordion-active-bg: none;
+}
+
+.accordion .accordion-item .accordion-header button{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.accordion .accordion-item .accordion-collapse .accordion-body{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.accordion-body .col:first-child{
+    border-right: 4px solid rgba(0,0,0,0.2)
+}
+
+.accordion-body .row .col {
+  text-align: center;
+}
+
+.accordion-body .row .col a,link {
+  text-decoration: underline;
+  color: #477769;
+  font-size: 1.5rem;
+  font-weight: 700;
+}

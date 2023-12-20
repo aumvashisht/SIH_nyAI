@@ -1,0 +1,71 @@
+.drafting2 .row {
+  margin-top: 50px;
+}
+
+.drafting2 .row .col .h2 {
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.drafting2 .row .col .btnDiv {
+  display: flex;
+  justify-content: center;
+}
+
+.inputBox {
+  margin-left: 5%;
+}
+
+.form-container form div label {
+  font-size: 24px;
+}
+.form-container form div input {
+  border: 1px solid black;
+}
+.form-container form div input:focus {
+  color: black;
+}
+
+.form-control:focus {
+  border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.form-container .button {
+  text-align: center;
+  width: 50%;
+  height: auto;
+  border-radius: 30px;
+  font-size: 24px;
+  font-weight: 800;
+  background-color: #477769;
+  color: white;
+}
+
+.drafting2 .row .sampleDiv {
+  display: flex;
+  justify-content: center;
+  border-right: 2px solid rgba(0,0,0,0.2);
+}
+.drafting2 .row .sampleDiv .sample {
+  border: 2px solid black;
+  padding: 0 40px;
+}
+
+.sample p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 992px) {
+    .drafting2 .row .sampleDiv{
+        border-right: none;
+        margin-left: 5%;
+    }
+  }
+
+.wid{
+  max-width: 35vw;
+}

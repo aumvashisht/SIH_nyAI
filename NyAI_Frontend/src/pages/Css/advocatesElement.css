@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200;0,800;1,300&display=swap');
+
+.advocateElement{
+  width: 100%;
+  overflow: hidden;
+  height: 80vh;
+}
+.advocateElement .row{
+  width: 100%;
+  height: 75%;
+}
+.advocateElement Img{
+  width: 100%;
+  height: 200px;
+  border-radius: 30px 30px 0 0;
+}
+
+.advocateElement .name{
+  font-family: "Mulish";
+  font-size: medium;
+  text-align: center;
+}
+
+.advocateElement ul{
+  text-align: start;
+  text-transform: capitalize;
+}
+
+.advocateElement .address{
+  justify-self: end;
+}
+
+.phone{
+  font-weight: 500;
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> origin

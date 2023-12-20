@@ -1,0 +1,76 @@
+.About{
+    padding: 50px ;
+    align-items: center;
+    text-align: center;
+}
+
+<<<<<<< HEAD
+.img00{
+=======
+.img{
+>>>>>>> origin
+    max-width: 80vw;
+    padding-bottom: 45px;
+}
+
+.heading{
+    color: #89A99E;
+    line-height: normal;
+    padding-bottom: 50px;
+}
+
+.choose{
+    text-align: center;
+}
+
+.choose p{
+    font-size: 17px;
+    font-weight: 340;
+    line-height: 0.7cm;
+    margin-left: -70px;
+}
+
+.choose h2{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.img01{
+    max-width: 35vw;
+    padding-top: 50px;
+}
+
+.heading02{
+    line-height: normal;
+    padding-bottom: 50px;
+}
+
+.heading03{
+    line-height: normal;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.paragraph{
+    padding-left: 60px;
+}
+
+.commit{
+    padding-left: 180px;
+    padding-right: 180px;
+    font-size: 17px;
+    font-weight: 340;
+    line-height: 0.7cm;
+}
+
+.head{
+    color: #89A99E;
+    line-height: normal;
+    padding-bottom: 50px;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin

@@ -1,0 +1,66 @@
+.Help{
+    padding-left: 100px;
+    padding-top: 25px;
+    align-items: center;
+    max-width: 80vw;
+}
+
+.h{
+    padding-top: 60px;
+    text-align: center;
+}
+
+.FirstDiv{
+    padding-top: 50px;
+    text-align: center;
+}
+
+<<<<<<< HEAD
+.helpImg{
+=======
+img{
+>>>>>>> origin
+    max-width: 60vw;
+    height: auto;
+}
+
+/* ---------------------------------------------This is for accordian---------------------------------------- */
+.accordion {
+    --bs-accordion-active-bg: none;
+  }
+  
+  .accordion .accordion-item .accordion-header button{
+      font-size: 24px;
+      font-weight: 300;
+  }
+  
+  .accordion .accordion-item .accordion-collapse .accordion-body{
+      font-size: 18px;
+      font-weight: 500;
+  }
+  
+  .accordion-body .col:first-child{
+      border-right: 4px solid rgba(0,0,0,0.2)
+  }
+  
+  .accordion-body .row .col {
+    text-align: center;
+  }
+  
+  .accordion-body .row .col a,link {
+    text-decoration: underline;
+    color: #477769;
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  
+  .h01{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+  }
+
+  .FinalHead{
+    text-align: center;
+    padding-top: 50px;
+  }
